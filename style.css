@@ -1,0 +1,10 @@
+h1{
+    color: rgb(234, 0, 255);
+    background-color: darkgrey;
+    text-align: center;
+    font-size: 80px;
+    width:40%;
+    margin: auto;
+    border-radius: 40px;
+    border:5px solid black;
+}
