@@ -1,0 +1,18 @@
+.titulo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 49px;
+}
+.texto3{
+display: flex;
+text-align: center;
+justify-content: center;
+font-size: 40px;
+}
+.texto5{display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 50%;
+
+}
