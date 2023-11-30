@@ -1,10 +1,41 @@
-h1{
-    color: rgb(234, 0, 255);
-    background-color: darkgrey;
+.titulo{
+    display: flex;
     text-align: center;
-    font-size: 80px;
-    width:40%;
-    margin: auto;
-    border-radius: 40px;
-    border:5px solid black;
+    justify-content: center;
+    font-size: 49px;
+}
+.texto3{
+display: flex;
+text-align: center;
+justify-content: center;
+font-size: 40px;
+}
+.texto5{display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 27px;
+
+}
+
+#banner{
+    width: 100%;
+  height:900px ;
+  
+  background-color: purple;
+  background-position: center;
+}
+.texto{
+display: flex;
+text-align: center;
+justify-content: center;
+font-size: 30px;
+
+}
+.final{display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 100px;
+
+
+
 }
